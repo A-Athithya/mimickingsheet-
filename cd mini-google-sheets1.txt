@@ -1,0 +1,13 @@
+
+### Instructions for Customization
+
+1. **Project Title**: Change the title to match your project name.
+2. **Repository URL**: Replace `https://github.com/yourusername/mini-google-sheets.git` with the actual URL of your GitHub repository.
+3. **Features**: Modify the features section to accurately reflect the functionalities of your application.
+4. **Technologies Used**: Add or remove technologies based on what you used in your project.
+5. **Installation Instructions**: Ensure the installation steps are clear and accurate.
+6. **Usage Instructions**: Provide any additional usage instructions that may be relevant.
+7. **Contributing Guidelines**: Adjust the contributing section based on your preferences for contributions.
+8. **License**: Specify the license you are using for your project.
+
+This README format provides a comprehensive overview of your project, making it easier for others to understand, use, and contribute to your application.
